@@ -1,4 +1,4 @@
-module jours2
+module github.com/MatteoCharrin/user
 
 go 1.25.0
 
